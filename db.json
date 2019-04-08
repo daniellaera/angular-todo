@@ -1,3 +1,9 @@
 {
-  "todos": []
+  "todos": [
+    {
+      "title": "yo man",
+      "complete": false,
+      "id": 1
+    }
+  ]
 }
